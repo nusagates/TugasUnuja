@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">TugasUnuja</string>
+
+    <string name="et_input_1">Nilai 1</string>
+    <string name="et_input_2">Nilai 2</string>
+
+    <string name="btn_add">+</string>
+    <string name="btn_substract">−</string>
+    <string name="btn_multiply">X</string>
+    <string name="btn_divide">÷</string>
+
+    <string name="init_result">0</string>
+
+    <string name="app_page_title_1">Operasi Hitung Sederhana</string>
+    <string name="app_attribution">oleh Ahmad Budairi</string>
 </resources>
